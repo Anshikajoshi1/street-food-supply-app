@@ -22,4 +22,4 @@ A simple web-based platform to help Indian street food vendors connect with raw 
 - Anshika Joshi (Solo Developer & Designer)
 
 ## Live Demo
-Link: https://your-netlify-link.netlify.app/
+Link: https://street-food-mart.netlify.app/
